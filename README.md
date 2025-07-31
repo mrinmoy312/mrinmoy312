@@ -29,5 +29,5 @@
 ### 👨‍💻 Just Me, My Code & My Desk
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a1f5cd5101f1cabeedc98f524d.gif" alt="Coder at desk" width="600"/>
+  <img src="https://drive.google.com/file/d/1o_k-vXZ6sM8EzRTuyRuPgKptWdz1lqMN/view?usp=drive_link" alt="Coder at desk" width="600"/>
 </p>
