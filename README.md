@@ -6,7 +6,7 @@
 
 ---
 
-### ✨ About Me
+### 🌟 About Me
 
 - 🎓 I'm currently an undergraduate CSE student  
 - ✨ Just a curious mind translating thoughts into technology  
@@ -16,7 +16,7 @@
 ---
 
 
-### 🧰 Tool Kit
+### 🧰 ToolKit
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;" />
