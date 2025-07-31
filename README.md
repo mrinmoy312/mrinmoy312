@@ -1,16 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Mrinmoy+Jana" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi there 👋 I'm Mrinmoy Jana</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Learning+Everyday%F0%9F%93%9A" alt="Typing SVG" />
 </p>
-
----
-
-## Hi there 👋
-
-I'm **Mrinmoy Jana** – welcome to my GitHub!
 
 ---
 
