@@ -16,9 +16,6 @@
 ---
 
 
-### 🧰 ToolKit
-
-### 🧰 ToolKit
 
 ### 🧰 ToolKit
 
@@ -29,8 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://svgrepo.com/show/369980/database-sql.svg" alt="SQL" width="40" height="40" style="margin-right: 10px;" />
 </p>
+
 
 
 
