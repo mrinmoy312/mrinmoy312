@@ -38,7 +38,7 @@
 
 ---
 
-### 👨‍💻 Just Solving My Erros!
+### 👨‍💻 Just Yet Another Boring Desk!
 
 <p align="center">
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD7qBkITE2CEBuCY8Gg9z66EoZEKuW2VUiqpDxn2psddL4hODxt8xVVE7u-Hj-Bok_ZDzcwDuImaZsEp_J2BEoQiQqCGuh3VerZEUZFtR8ETCOnNT4q8YXkNISCr3TAk1h8G9LSX1KomadzyaNvxLcQqiVrQZ38qlKULItYvuDdYm_29Zt_UFVx8-Uc0t8/s1600/1000137618.gif" alt="Coder at desk" width="600"/>
