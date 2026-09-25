@@ -11,7 +11,7 @@
 
 - 🎓 I'm currently an undergraduate CSE student  
 - ✨ Just a curious mind translating thoughts into technology  
-- 🏏 I love playing cricket in my free time  
+- 🏏 I love to play cricket in my free time  
 - 🚀 Passionate about learning and growing through tech!
 
 ---
